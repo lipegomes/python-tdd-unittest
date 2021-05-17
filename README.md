@@ -42,10 +42,13 @@ coverage run -m unittest src/tests/test02_calculator.py
 
 ```
 
+![](https://github.com/lipegomes/python-tdd-unittest/blob/main/assets/pictures/coverage_run.png)
+
 ```console
 coverage report -m src/tests/test02_calculator.py
 ```
 
+![](https://github.com/lipegomes/python-tdd-unittest/blob/main/assets/pictures/coverage_report.png)
 
 ## References
 
