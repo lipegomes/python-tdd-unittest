@@ -8,25 +8,25 @@ Studies on unit testing in python using the unittest framework.
 
 Linux or Mac:
 
-`` console
+``` bash
 pip install virtualenv
 virtualenv .venv
 source .venv/bin/activate
 pip install requirements.txt
-``
+```
 
 Windows:
 
-`` console
+``` console
 pip install virtualenv
 virtualenv .venv
 .venv/Scripts/Activate.ps1 or .\.venv\Scripts\activate
 pip install requirements.txt
-``
+```
 ## Check code quality:
-`` console
+```console
 flake8
-``
+```
 
 
 ## Framework
