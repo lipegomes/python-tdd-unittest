@@ -29,8 +29,9 @@ flake8
 ```
 
 
-## Framework
+## References
 [unittest](https://docs.python.org/3/library/unittest.html)
+[doctest](https://docs.python.org/3/library/doctest.html)
 
 ## Tools used:
 
