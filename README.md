@@ -30,8 +30,10 @@ flake8
 
 
 ## References
-[unittest](https://docs.python.org/3/library/unittest.html)
-[doctest](https://docs.python.org/3/library/doctest.html)
+
+- [unittest](https://docs.python.org/3/library/unittest.html)
+
+- [doctest](https://docs.python.org/3/library/doctest.html)
 
 ## Tools used:
 
