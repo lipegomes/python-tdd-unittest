@@ -1,4 +1,4 @@
-from src.main.calculator import *
+from src.base.calculator import sum, subtraction, multiplication, division, exponentiation
 
 calc1 = sum(10, 30)
 print(calc1)

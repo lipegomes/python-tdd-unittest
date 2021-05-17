@@ -28,6 +28,12 @@ pip install requirements.txt
 flake8
 ```
 
+## Perform unit test
+To perform the unit test use the command below:
+
+```console
+python -m unittest src/tests/test02_calculator.py
+```
 
 ## References
 
