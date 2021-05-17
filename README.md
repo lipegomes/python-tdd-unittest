@@ -20,7 +20,7 @@ Windows:
 ``` console
 pip install virtualenv
 virtualenv .venv
-.venv/Scripts/Activate.ps1 or .\.venv\Scripts\activate
+.venv\Scripts\activate
 pip install requirements.txt
 ```
 ## Check code quality:
