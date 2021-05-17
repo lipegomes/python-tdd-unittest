@@ -4,6 +4,8 @@ This repository is for me to date my studies on tests and TDD (Test Driven Devel
 
 https://www.udemy.com/course/python-3-do-zero-ao-avancado/
 
+Note: As I study, I try to write the codes in my own way, in addition to reading and using the [references](https://github.com/lipegomes/python-tdd-unittest/tree/main#references) contained in the websites of the libs and testing framework.
+
 ## Requirements:
 - Have version 3 of python installed on the notebook or pc.
 - Create the virtual environment in the project folder and install the requirements:
