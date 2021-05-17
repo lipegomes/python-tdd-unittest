@@ -7,6 +7,7 @@ Studies on unit testing in python using the unittest framework.
 - Create the virtual environment in the project folder and install the requirements:
 
 Linux or Mac:
+
 `` console
 pip install virtualenv
 virtualenv .venv
@@ -15,6 +16,7 @@ pip install requirements.txt
 ``
 
 Windows:
+
 `` console
 pip install virtualenv
 virtualenv .venv
