@@ -1,6 +1,8 @@
 # python-tdd-unittest
 
-Studies on unit testing in python using the unittest framework.
+This repository is for me to date my studies on tests and TDD (Test Driven Development), using the classes of the course below:
+
+https://www.udemy.com/course/python-3-do-zero-ao-avancado/
 
 ## Requirements:
 - Have version 3 of python installed on the notebook or pc.
