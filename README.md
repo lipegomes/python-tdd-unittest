@@ -35,6 +35,18 @@ To perform the unit test use the command below:
 python -m unittest src/tests/test02_calculator.py
 ```
 
+## Tests coverage
+
+```console
+coverage run -m unittest src/tests/test02_calculator.py
+
+```
+
+```console
+coverage report -m src/tests/test02_calculator.py
+```
+
+
 ## References
 
 - [unittest](https://docs.python.org/3/library/unittest.html)
