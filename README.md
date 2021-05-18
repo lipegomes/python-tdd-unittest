@@ -46,13 +46,13 @@ coverage run -m unittest src/tests/test02_calculator.py
 
 ```
 
-![](https://github.com/lipegomes/python-tdd-unittest/blob/main/assets/pictures/coverage_run.png)
+![](https://github.com/lipegomes/python-tdd-unittest/blob/main/assets/img/coverage_run.png)
 
 ```console
 coverage report -m src/tests/test02_calculator.py
 ```
 
-![](https://github.com/lipegomes/python-tdd-unittest/blob/main/assets/pictures/coverage_report.png)
+![](https://github.com/lipegomes/python-tdd-unittest/blob/main/assets/img/coverage_report.png)
 
 ## References
 
@@ -63,5 +63,4 @@ coverage report -m src/tests/test02_calculator.py
 ## Tools used:
 
 - [Pycharm](https://www.jetbrains.com/help/pycharm/installation-guide.html)
-- [Visual Studio Code](https://code.visualstudio.com/)
 - [Git](https://git-scm.com/)
